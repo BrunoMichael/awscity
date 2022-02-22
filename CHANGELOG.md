@@ -53,7 +53,6 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 - Add blips garagem Delegacia Nova, Hospital Novo, Bennys Nova
 - Add blips elevador delegacia e hospital
 - Add blip tuning Bennys
-- 
 
 ### Changed
 - Organização de mapas e empregos
@@ -66,5 +65,5 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 -Fix todos os mapas que estavam invisiveis
 
 ### Removed
-- 
+
 - Removido todos os mapas que não estavam sendo utilizados
