@@ -46,3 +46,25 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 ### Removed
 - 
 - Removido todos os empregos, icones, garagens de serviço do Norte 
+
+## [0.1.2] - 2022-02-22
+
+### Added
+- Add blips garagem Delegacia Nova, Hospital Novo, Bennys Nova
+- Add blips elevador delegacia e hospital
+- Add blip tuning Bennys
+- 
+
+### Changed
+- Organização de mapas e empregos
+
+### Fixed
+
+-Fix target Lasttrain
+-Fix target serviço policia e hospital
+-Fix icones mapa ( novas mecanicas, hospital, delegacia )
+-Fix todos os mapas que estavam invisiveis
+
+### Removed
+- 
+- Removido todos os mapas que não estavam sendo utilizados
