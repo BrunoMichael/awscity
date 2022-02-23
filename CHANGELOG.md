@@ -20,6 +20,7 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 - Checar porta-mala (F9)
 - Loja de tatuagens
 - Gasolina bugada na hud ( não descia e nem sincronizava outros players )
+- Cobrança de taxa de veiculos várias vezes.
 
 ### Removed
 - Ações botões 1 ao 9
