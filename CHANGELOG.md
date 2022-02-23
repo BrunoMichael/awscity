@@ -5,7 +5,26 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.1.3] - 2022-02-23
 
+### Added
+- Add tuning fora da bennys para veículos que não entram no galpão 
+- Add peds garagem delegacia, hospital, bennys
+- Add trancas portas dp, hp, bennys, mecanica
+
+### Changed
+- Mudança HUD para melhor visualização
+
+### Fixed
+- Fix target em alguns caixa eletronicos
+- Fix checar porta-mala (F9)
+- Fix loja de tatuagens
+- Fix gasolina bugada na hud ( não descia e nem sincronizava outros players )
+
+### Removed
+- Removido ações botões 1 ao 9
+- Removido relógio hud
+- Removido algemar e segurar admin
 
 ## [0.1.2] - 2022-02-22
 
@@ -42,9 +61,9 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ### Removed
 - Removido todos os empregos, icones, garagens de serviço do Norte 
-
-
 - Removido todos os mapas que não estavam sendo utilizados
+
+
 ## [0.1.0] - 2022-02-16
 
 ### Added
