@@ -5,6 +5,46 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+
+
+## [0.1.2] - 2022-02-22
+
+### Added
+- Add blips garagem Delegacia Nova, Hospital Novo, Bennys Nova
+- Add blips elevador delegacia e hospital
+- Add blip tuning Bennys
+
+### Changed
+- Organização de mapas e empregos
+
+### Fixed
+
+- Fix target Lasttrain
+- Fix target serviço policia e hospital
+- Fix icones mapa ( novas mecanicas, hospital, delegacia )
+- Fix todos os mapas que estavam invisiveis
+
+### Removed
+
+
+## [0.1.1] - 2022-02-17
+
+### Added
+- Add opção finalizar target Caminhoneiro
+
+### Changed
+- Posicionamento HUD de acordo com resolução
+- Diminuído tempo para fome e sede
+
+### Fixed
+- Emprego caminhoneiro agora tem como finalizar a rota
+- Função F9 (Rebocar) para emprego de Guincho
+
+### Removed
+- Removido todos os empregos, icones, garagens de serviço do Norte 
+
+
+- Removido todos os mapas que não estavam sendo utilizados
 ## [0.1.0] - 2022-02-16
 
 ### Added
@@ -28,42 +68,3 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ### Removed
 - 
-
-## [0.1.1] - 2022-02-17
-
-### Added
-- Add opção finalizar target Caminhoneiro
-
-### Changed
-- Posicionamento HUD de acordo com resolução
-- Diminuído tempo para fome e sede
-
-### Fixed
-
-- Emprego caminhoneiro agora tem como finalizar a rota
-- Função F9 (Rebocar) para emprego de Guincho
-
-### Removed
-- 
-- Removido todos os empregos, icones, garagens de serviço do Norte 
-
-## [0.1.2] - 2022-02-22
-
-### Added
-- Add blips garagem Delegacia Nova, Hospital Novo, Bennys Nova
-- Add blips elevador delegacia e hospital
-- Add blip tuning Bennys
-
-### Changed
-- Organização de mapas e empregos
-
-### Fixed
-
--Fix target Lasttrain
--Fix target serviço policia e hospital
--Fix icones mapa ( novas mecanicas, hospital, delegacia )
--Fix todos os mapas que estavam invisiveis
-
-### Removed
-
-- Removido todos os mapas que não estavam sendo utilizados
