@@ -5,6 +5,24 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.1.4] - 2022-02-24
+
+### Added
+
+### Changed
+- Sistema roubo npc
+- Coloração interface ATM
+
+### Fixed
+- Sessão mochila na loja de roupa 
+- Local inicio test drive 
+- Controle de velocidade dos carros
+- Ação F9 remover chapéu e máscara
+- Todos os notifiy request 
+- Fix notify ATM
+
+### Removed
+
 ## [0.1.3] - 2022-02-23
 
 ### Added
