@@ -14,9 +14,12 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 - Emprego guincho
 - Registro emprego Guincho
 - Sistema venda de drogas
+- Item dollars2 para dollarsz
+- Reduzido tempo para aparecer chamado venda de drogas
 
 ### Fixed
 - Notify jobs
+- Peds favelas
 
 ### Removed
 - Sistema de pets
