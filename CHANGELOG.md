@@ -5,6 +5,24 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.1.5] - 2022-02-25
+
+### Added
+- Npc de venda de drogas em todas as favelas
+
+### Changed
+- Emprego guincho
+- Registro emprego Guincho
+- Sistema venda de drogas
+
+### Fixed
+- Notify jobs
+
+### Removed
+- Sistema de pets
+- Comercialização do F9
+- Emprego Colheita
+
 ## [0.1.4] - 2022-02-24
 
 ### Added
