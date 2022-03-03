@@ -5,6 +5,23 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.1.6] - 2022-03-03
+
+### Added
+- Add animação algemar
+
+### Changed
+- 
+
+### Fixed
+- Fix em todos os sons 
+- Chapéu permanecia ao remover roupas através do F9
+- Sistema de recarga todas as armas
+- Barberia seta de próximo não funcionava 
+- Locais de serviços presídio
+
+### Removed
+
 ## [0.1.5] - 2022-02-25
 
 ### Added
