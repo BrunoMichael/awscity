@@ -5,13 +5,29 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.1.7] - 2022-03-04
+
+### Added
+- Notify não está com serviço iniciado no emprego de caminhoneiro
+- Emprego Jornaleiro
+- Peds que faltavam
+- Blips de todos os bancos no mapa
+- Animação de cair ao sair do porta-malas
+
+### Changed
+- Emprego de lixeiro
+
+### Fixed
+- Notify bancos
+
+### Removed
+
 ## [0.1.6] - 2022-03-03
 
 ### Added
 - Add animação algemar
 
 ### Changed
-- 
 
 ### Fixed
 - Fix em todos os sons 
@@ -128,7 +144,6 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ### Changed
 - Posição da rua no HUD
-- 
 
 ### Fixed
 - Sistema de uniformes corrigidos
@@ -143,4 +158,3 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 - Relógio e radio da HUD
 
 ### Removed
-- 
