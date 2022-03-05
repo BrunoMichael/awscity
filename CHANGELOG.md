@@ -16,6 +16,7 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ### Changed
 - Emprego de lixeiro
+- Sistema Desmanche alterado para o nosso autoral
 
 ### Fixed
 - Notify bancos
@@ -47,7 +48,7 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 - Emprego guincho
 - Registro emprego Guincho
 - Sistema venda de drogas
-- Item dollars2 para dollarsz
+- Item dollarsz para dollarsz
 - Reduzido tempo para aparecer chamado venda de drogas
 
 ### Fixed
