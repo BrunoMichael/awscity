@@ -5,6 +5,33 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+
+## [0.1.8] - 2022-03-10
+
+### Added
+- Emprego de carteiro
+
+### Changed
+
+### Fixed
+- Emprego de caçador
+- Emprego de pescador
+
+### Removed
+- Emprego de jornaleiro
+- Removido r34 lado direito estava bugado.
+
+## [0.1.8] - 2022-03-05
+
+### Added
+
+### Changed
+- O sistema exigia lockpick para começar a desmancha, agora você iniciar o desmanche e pegar a caixa de ferramentas, após que o desmanche for concluido a caixa será removida automaticamente. 
+
+### Fixed
+
+### Removed
+
 ## [0.1.7] - 2022-03-04
 
 ### Added
