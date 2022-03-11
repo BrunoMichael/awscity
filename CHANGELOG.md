@@ -6,7 +6,22 @@ Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
-## [0.1.8] - 2022-03-10
+## [0.2.0] - 2022-03-11
+
+### Added
+- Sistema de roubo de casas
+
+### Changed
+- Sistema de casas 
+- Sistema de Roupa de Mergulho
+
+### Fixed
+- Som de dinheiro ao tentar comprar em lojas que apenas vendem
+- Fix no baú da casa 
+
+### Removed
+
+## [0.1.9] - 2022-03-10
 
 ### Added
 - Emprego de carteiro
