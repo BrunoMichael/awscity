@@ -5,6 +5,29 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.2.1] - 2022-03-14
+
+### Added
+- Novo Chat
+- Chat OOC
+- Função /me para players
+- Função usar baralho
+- Log de chatkill (Discord)
+- Comandos prioridade na fila (Admin)
+- Comandos remover personagem (Admin)
+- Informações servidor no Discord do player que estiver jogando
+- Função F7 para ver ID do player
+
+### Changed
+-
+
+### Fixed
+- Roubo de casas
+- Sistema de girar dado
+- Notify debug
+
+### Removed
+- Permissões grupo LastTrain 
 
 ## [0.2.0] - 2022-03-11
 
