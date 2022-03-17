@@ -28,7 +28,7 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ### Removed
 - Sets do ilegal sem função
-- Removidos os guetos
+- Guetos
 - Peds sem funcionalide
 
 ## [0.2.1] - 2022-03-14
