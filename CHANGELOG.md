@@ -5,6 +5,32 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.2.2] - 2022-03-17
+
+### Added
+- Adicionado condições no emprego de caminhoneiro players normais uma vez a cada rr e players vips 2 vezes a cada rr (Verificar os vips e condições depois.)
+- Adicionado mais um farm para todas favela (Farm parado)
+- Adicionado todos os carros vips para aluguel na concessionária
+
+### Changed
+- Layout da garagem.
+- Emprego de caminhoneiro ao inves de receber dinheiro agora recebe material para vender. 
+
+### Fixed
+- Valor cobrado na retirada de veículos das garagens
+- Efeitos ao usar drogas 
+- Pagamento do caminhoneiro agora deleta o veiculo.
+- Farm de rota de todas as favelas.
+- Crafting das favelas
+- Baú das favelas.
+- Favela morrodopiolho
+- Lojas ilegais
+
+### Removed
+- Sets do ilegal sem função
+- Removidos os guetos
+- Peds sem funcionalide
+
 ## [0.2.1] - 2022-03-14
 
 ### Added
