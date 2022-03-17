@@ -8,9 +8,9 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 ## [0.2.2] - 2022-03-17
 
 ### Added
-- Adicionado condições no emprego de caminhoneiro players normais uma vez a cada rr e players vips 2 vezes a cada rr (Verificar os vips e condições depois.)
-- Adicionado mais um farm para todas favela (Farm parado)
-- Adicionado todos os carros vips para aluguel na concessionária
+- Condições no emprego de caminhoneiro players normais uma vez a cada rr e players vips 2 vezes a cada rr (Verificar os vips e condições depois.)
+- Mais um farm para todas favela (Farm parado)
+- Todos os carros vips para aluguel na concessionária
 
 ### Changed
 - Layout da garagem.
