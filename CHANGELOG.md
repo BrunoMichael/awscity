@@ -12,6 +12,7 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 - Mais um farm para todas favela (Farm parado)
 - Todos os carros vips para aluguel na concessionária
 - Proteção no bau para quando estiver sem espaço ele não atualizar e não move nada.
+- Verificação para saber se tem dinheiro na mão, caso não tenha o desconto vai ser no banco automaticamente.
 
 ### Changed
 - Layout do baú. 
