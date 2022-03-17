@@ -11,8 +11,10 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 - Condições no emprego de caminhoneiro players normais uma vez a cada rr e players vips 2 vezes a cada rr (Verificar os vips e condições depois.)
 - Mais um farm para todas favela (Farm parado)
 - Todos os carros vips para aluguel na concessionária
+- Proteção no bau para quando estiver sem espaço ele não atualizar e não move nada.
 
 ### Changed
+- Layout do baú. 
 - Layout da garagem.
 - Emprego de caminhoneiro ao inves de receber dinheiro agora recebe material para vender. 
 
@@ -25,6 +27,7 @@ e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 - Baú das favelas.
 - Favela morrodopiolho
 - Lojas ilegais
+- Bug ao pegar qualquer item do baú e sumir
 
 ### Removed
 - Sets do ilegal sem função
