@@ -5,6 +5,47 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.2.3] - 2022-04-08
+
+### Added
+- Efeito hover no target
+- Drift pela tecla SHIFT
+- Set TheLost MC designado a função de venda de munições
+- Set Mayans designado a função de venda de munições
+- Bau, Crafting e rota do ilegal para TheLost MC
+- Bau, Crafting e rota do ilegal para Mayans
+- Set Vanilla designado a função de lavagem de dinheiro
+- Bau e crafting para o Vanilla
+- Lavagem de dinheiro de 50% por npc necessita de pendrive.
+- Crafting de itens ilegais como colete, lockpick e c4.
+- Roubo ao caixa registradora com lock pick
+- Corrida ilegal que precisa de ticket, caso você inicia sem ticket não tem tempo e nem chama policia.
+- Roubo ao carro forte.
+
+### Changed
+- Sistema de arma na mão, agora as munições são salvas no banco de dados.
+- Layout de todos os vrp.request do servidor. (Caixa onde você tem que aceitar com Y ou negar com N)
+- Sistema de roubo de caixa eletronico agora necessita de C4
+- Organizado pasta "Roubos"
+- Sistema de barbershop e foi alterado a maneira de salvar evitando perdas.
+- Sistema de skinshop e foi alterado a maneira de salvar evitando perdas.
+- Sistema de tattoos e foi alterado a maneira de salvar evitando perdas.
+- Optimização Tela de spawn.
+- Layout tela de spawn, barbershop, skinshop e tattoos
+
+### Fixed
+- Animação duplicada ao pegar arma pela primeira vez após rr
+- Favela01, Favela02, Favela03
+- Mapa TheLost
+- Sistema de roubos
+- Salvamento do sexo da pessoa no banco de dados
+- Função gsrkit para ver se foi cometido crime
+
+### Removed
+- Sets de mafias e outros ilegais que não estavam sendo utilizados.
+- Toda parte de roubo do target e eletronics
+- Status de fome, sede e stress que não estavam sendo utilizados no inventory
+
 ## [0.2.2] - 2022-03-17
 
 ### Added
