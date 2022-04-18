@@ -5,6 +5,51 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.2.4] - 2022-04-18
+
+### Added
+- Sistema de criação de circuitos para corrida.
+- Timer para não fica usando meth e colete toda hora.
+- Sistema de procurado no tablet policial
+- Sistema de porte de arma no tablet policial.
+- Novo banco através do celular.
+- Bloqueio em algumas funcionalidades  quando está procurado ou em repouso.
+- Sounds em toda ações envolvendo dinheiro no tablet.
+- Opção de alugar carro vip por dinheiro do jogo por 30 dias.
+- Opção de colocar e retirar a peça de roupa especifica no F9.
+
+### Changed
+ - Alguns efeitos das drogas.
+ - Sistema de procurado e repouso.
+ - Sistema de salario já cai automaticamente no banco.
+ - Sistema de tablet.
+ - Sistema de garagem e novo sistema de salvamento.
+ - Sistema impound e towdriver.
+ - Layout garagem para o do servidor.
+ - Sistema de banimento permanente para a quantidade de dias, o banimento é retirado automaticamente após o total de dias expirar. 
+ - Sistema de casa
+ - Sistema de morte e layout
+ - Organizados o savalmento de roupa no F9
+ - Sistema de spawn servidor reformulado, corrigindo que toda hora aparecia onde você queria nascer sendo que deveria aparecer apenas uma vez após o rr.
+ - Melhorado algumas threads evitando loading ao carregar o personagem.
+
+### Fixed
+- Construção pescador sandy shores.
+- Optimização sistema de atm.
+- Sistema de multa.
+- Comando /e pano e /e pano2 agora é possível limpar o veículo.
+- Verificar placa, registrar carro e deter carro.
+- Sistema de desmanche com o novo sistema de garagem.
+- Fix trunkchest.
+- Visual dos logs ( Discord ).
+- Sistema Test drive.
+- Target com as opções trocar placa, arrombar portas malas e entrar no portas malas. 
+- Comandos admin
+- Item adrenaline
+
+### Removed
+ - Removido tudo relacionado ao serial.
+
 ## [0.2.3] - 2022-04-08
 
 ### Added
